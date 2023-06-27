@@ -1,0 +1,21 @@
+- Registro de cuenta: Permitir a los usuarios abrir una cuenta bancaria a través de la plataforma en línea.
+- Consulta de saldo: Mostrar el saldo actual de la cuenta del usuario.
+- Historial de transacciones: Proporcionar un registro detallado de todas las transacciones realizadas en la cuenta.
+- Transferencias de fondos: Permitir a los usuarios transferir dinero entre sus cuentas o a cuentas de terceros dentro del mismo banco o en otros bancos.
+- Pago de facturas: Facilitar el pago de servicios públicos, como electricidad, agua, teléfono, etc.
+- Compra de productos y servicios: Ofrecer la posibilidad de realizar compras en línea utilizando los fondos de la cuenta bancaria.
+- Depósito de cheques: Permitir a los usuarios hacer depósitos de cheques escaneándolos o fotografiándolos a través de la aplicación móvil.
+- Gestión de tarjetas: Brindar la opción de solicitar, activar o desactivar tarjetas de débito o crédito, así como también configurar límites de gasto y notificaciones de transacciones.
+- Bloqueo y desbloqueo de tarjetas: Permitir a los usuarios bloquear temporalmente sus tarjetas en caso de extravío o robo, y desbloquearlas cuando las encuentren o cuando deseen utilizarlas nuevamente.
+- Pagos móviles: Posibilitar los pagos utilizando tecnología NFC (Near Field Communication) desde dispositivos móviles en comercios habilitados.
+- Alertas y notificaciones: Enviar notificaciones por correo electrónico, mensajes de texto o aplicaciones móviles para informar sobre transacciones, cambios de saldo, vencimiento de pagos, etc.
+- Gestión de préstamos: Permitir a los usuarios solicitar préstamos, calcular tasas de interés, realizar pagos y ver el historial de pagos.
+- Planificación financiera: Proporcionar herramientas y recursos para ayudar a los usuarios a establecer metas financieras, crear presupuestos y realizar un seguimiento de sus gastos.
+- Servicio al cliente: Ofrecer asistencia en línea a través de chat en vivo, correo electrónico o llamadas telefónicas para resolver consultas o problemas relacionados con la cuenta.
+- Cambio de divisas: Proporcionar tasas de cambio actualizadas y permitir a los usuarios cambiar divisas en línea.
+- Configuración de alertas de seguridad: Permitir a los usuarios establecer medidas de seguridad adicionales, como notificaciones de inicio de sesión, verificación en dos pasos, etc.
+- Gestión de inversiones: Brindar opciones para que los usuarios compren y vendan acciones, fondos mutuos u otros instrumentos de inversión.
+- Programas de recompensas y beneficios: Ofrecer programas de lealtad, puntos o descuentos especiales para fomentar la participación y el uso de la plataforma bancaria.
+- Ahorro automático: Brindar la opción de establecer reglas de ahorro automáticas, donde los usuarios pueden configurar la plataforma para que automáticamente se aparte una parte de sus ingresos en una cuenta de ahorros designada.
+
+- Asesoramiento financiero: Proporcionar herramientas y recursos para que los usuarios reciban asesoramiento financiero personalizado. Esto puede incluir análisis de gastos, recomendaciones de inversión, planificación para la jubilación y estrategias para alcanzar metas financieras específicas.
